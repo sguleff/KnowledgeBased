@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Knowledge Repository
 
 **Note:** The Knowledge Repository is a work in progress. There are lots of code cleanups and feature extensions TBD. Your assistance and involvement is more than encouraged.
@@ -190,3 +191,6 @@ A knowledge post is a virtual directory, with the following structure:
 		+ images/* [Optional]
 		+ orig_src/* [Optional; stores the original converted file]
 
+=======
+# KnowledgeBased
+>>>>>>> 2584f59d15f3324b1aeba4ff2532ec0bc316df6d
